@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: MUKESH.R</h3>
-<h3>Register Number: 212223240100</h3>
+<h3>Name: MOHAMED ZABIR KHAN A</h3>
+<h3>Register Number: 212224230162</h3>
 
 
 <h3>AIM:</h3>
